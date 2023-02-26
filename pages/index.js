@@ -20,7 +20,7 @@ export default function Home() {
           startIcon={<UploadFileIcon />}
           sx={{ marginRight: "1rem" }}
         >
-          Upload Sticker
+          Upload Stickers
           <input
             type="file"
             accept=".csv"
